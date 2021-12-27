@@ -7,7 +7,7 @@ Then, we can input data and get a prediction about the network status based on t
 This project is composed by two parts:
 
 - train.py that loads the dataset, treats the data within the dataset, trains the model and evaluate the model with the choosed classification algorithm.
-- test.py that imports the model, tests the dataset and makes a prediction based on the model trained with the input of 7 parameters. This parameters are: "Fwd Seg Size Avg", "Flow IAT Min", "Flow Duration", "Tot Fwd Pkts", "Pkt Size Avg", "Src Port", "Init Bwd Win Byts", by this order.
+- test.py that imports the model, tests the dataset and makes a prediction based on the model trained with the input of 7 parameters. This parameters are: ```"Fwd Seg Size Avg", "Flow IAT Min", "Flow Duration", "Tot Fwd Pkts", "Pkt Size Avg", "Src Port", "Init Bwd Win Byts"```", by this order.
 
 
 
