@@ -34,7 +34,8 @@ Project Authored by: Alexandre Romão
 - Go to your OS command prompt or anaconda prompt and change directory to the directory where the .py files are stored.
 - Then, type ``` python train.py ``` and the program will start the execution.
 
-Note: Please create a folder named 'saved_model' in the directory of the python files.
+Note: Please create a folder named 'saved_model' in the directory of the python scripts.
+Note: Please create a folder named 'ddos_balanced' in the directory of the python scripts, download the dataset mentioned in the 'Dataset' part and store it in the folder.
 
 ## Running
 
