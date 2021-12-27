@@ -1,5 +1,5 @@
 # DDoS Detection Using Machine Learning Techniques
-DDoS Detection using Machine Learning techniques and it's classification for the Advanced Information Security course
+DDoS Detection using Machine Learning techniques and it's classification
 
 This project is based on the use of machine learning algorithms to train a model using data related to network traffic to determine if we are facing a ddos attack or not.
 Then, we can input data and get a prediction about the network status based on the trained model.
