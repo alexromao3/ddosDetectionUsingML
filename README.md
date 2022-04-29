@@ -71,3 +71,7 @@ Note: Please create a folder named 'ddos_balanced' in the directory of the pytho
 - The dataset used can be found here: https://www.kaggle.com/devendra416/ddos-datasets
 - This dataset is a combination of multiple datasets, that were combined and balanced. This dataset contains 84 features.
 - The explanation for each parameter of the dataset can be found here: https://www.unb.ca/cic/datasets/ids-2018.html
+
+## Article:
+
+The scientific article written regarding this project can be found here: https://www.researchgate.net/publication/360246281_DDoS_Detection_using_Machine_Learning_Techniques
